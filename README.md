@@ -1,0 +1,1 @@
+## supports manifest v3
